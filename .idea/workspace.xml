@@ -1,21 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="w3:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2bac6f8-b8a9-4164-9a80-67efe71ad870" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoModifyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoModifyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoReadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoReadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoRegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoRegisterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoRemoveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoRemoveController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/dao/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/dao/ConnectionUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/dao/TodoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/dao/TodoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/dto/TodoDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/dto/TodoDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/util/MapperUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/util/MapperUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/vo/TodoVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/vo/TodoVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/todo/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/todo/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/todo/modify.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/todo/modify.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/todo/read.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/todo/read.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/todo/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/todo/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/todo/remove.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/todo/remove.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ConnectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConnectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TodoDAOTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TodoDAOTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TodoServiceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TodoServiceTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ksol0048"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ksol0048/w3.git",
+    "accountId": "431cde30-5247-4611-abc3-055a39e8a4ee"
+  }
+}]]></component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -24,24 +78,212 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2kJ6jSCm61j4U2Q6v4T3kdR4Cpq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.ConnectTest.executor": "Run",
+    "JUnit.TodoDAOTests.insert.executor": "Run",
+    "JUnit.TodoDAOTests.testDelete.executor": "Run",
+    "JUnit.TodoDAOTests.testList.executor": "Run",
+    "JUnit.TodoDAOTests.testSelectOne.executor": "Run",
+    "JUnit.TodoDAOTests.testTime.executor": "Run",
+    "JUnit.TodoDAOTests.testUpdate.executor": "Run",
+    "JUnit.TodoServiceTests.testRegister.executor": "Run",
+    "Maven.w3 [test].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Tomcat Server.Tomcat 10.1.26.executor": "Run",
+    "Tomcat Server.Tomcat 10.1.261.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora_aws",
+      "mysql"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="kroryi.w3.todo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 10.1.26">
+    <configuration name="TodoDAOTests.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="w3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TodoDAOTests" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoDAOTests.testList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="w3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TodoDAOTests" />
+      <option name="METHOD_NAME" value="testList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoDAOTests.testSelectOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="w3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TodoDAOTests" />
+      <option name="METHOD_NAME" value="testSelectOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoDAOTests.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="w3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TodoDAOTests" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoServiceTests.testRegister" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="w3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TodoServiceTests" />
+      <option name="METHOD_NAME" value="testRegister" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 10.1.26" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.26" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="w3:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="17a00162-ae3a-4bbd-a5f6-d182aa58af7c" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="36375" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="w3:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TodoDAOTests.testDelete" />
+      <item itemvalue="JUnit.TodoDAOTests.testList" />
+      <item itemvalue="JUnit.TodoDAOTests.testSelectOne" />
+      <item itemvalue="JUnit.TodoDAOTests.testUpdate" />
+      <item itemvalue="JUnit.TodoServiceTests.testRegister" />
+      <item itemvalue="Tomcat Server.Tomcat 10.1.26" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TodoServiceTests.testRegister" />
+        <item itemvalue="JUnit.TodoDAOTests.testUpdate" />
+        <item itemvalue="JUnit.TodoDAOTests.testDelete" />
+        <item itemvalue="JUnit.TodoDAOTests.testSelectOne" />
+        <item itemvalue="JUnit.TodoDAOTests.testList" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,11 +300,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722989468495</updated>
-      <workItem from="1722989469580" duration="2000" />
+      <workItem from="1722989469580" duration="1606000" />
+      <workItem from="1722991088366" duration="755000" />
+      <workItem from="1722991870729" duration="19497000" />
+      <workItem from="1723075209536" duration="18132000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

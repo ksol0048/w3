@@ -1,0 +1,1 @@
+2024-08-08 11:45:13 INFO  TodoService:32 - 등록합니다. todo: TodoVO(tno=null, title=JDBC Test Title, dueDate=2024-08-08, finished=false)

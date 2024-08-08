@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Todo Remove</title>
 </head>
 <body>
-
+<h1>Todo Remove</h1>
 </body>
 </html>
