@@ -9,31 +9,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2bac6f8-b8a9-4164-9a80-67efe71ad870" name="Changes" comment="">
+    <list default="true" id="c2bac6f8-b8a9-4164-9a80-67efe71ad870" name="Changes" comment="업로">
+      <change afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/filter/UTF8Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/login/LoginCheckFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/login/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/login/LogoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/member/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/member/dao/MemberDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/member/dto/MemberDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/member/vo/MemberVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/login/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e794c0be-1ecd-42ce-ab1f-7707c64a7695.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e794c0be-1ecd-42ce-ab1f-7707c64a7695.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoListController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoModifyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoModifyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoReadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoReadController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoRegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoRegisterController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoRemoveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoRemoveController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/TodoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/dao/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/dao/ConnectionUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/dao/TodoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/dao/TodoDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/dto/TodoDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/dto/TodoDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/util/MapperUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/util/MapperUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/vo/TodoVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kroryi/w3/todo/vo/TodoVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/todo/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/todo/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/todo/modify.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/todo/modify.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/todo/read.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/todo/read.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/todo/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/todo/register.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/todo/remove.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/todo/remove.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ConnectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConnectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TodoDAOTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TodoDAOTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TodoServiceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TodoServiceTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,26 +33,26 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ksol0048"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ksol0048&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ksol0048/w3.git",
-    "accountId": "431cde30-5247-4611-abc3-055a39e8a4ee"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ksol0048/w3.git&quot;,
+    &quot;accountId&quot;: &quot;431cde30-5247-4611-abc3-055a39e8a4ee&quot;
   }
-}]]></component>
+}</component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -89,39 +78,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "JUnit.ConnectTest.executor": "Run",
-    "JUnit.TodoDAOTests.insert.executor": "Run",
-    "JUnit.TodoDAOTests.testDelete.executor": "Run",
-    "JUnit.TodoDAOTests.testList.executor": "Run",
-    "JUnit.TodoDAOTests.testSelectOne.executor": "Run",
-    "JUnit.TodoDAOTests.testTime.executor": "Run",
-    "JUnit.TodoDAOTests.testUpdate.executor": "Run",
-    "JUnit.TodoServiceTests.testRegister.executor": "Run",
-    "Maven.w3 [test].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Tomcat Server.Tomcat 10.1.26.executor": "Run",
-    "Tomcat Server.Tomcat 10.1.261.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;JUnit.ConnectTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoDAOTests.insert.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoDAOTests.testDelete.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoDAOTests.testList.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoDAOTests.testSelectOne.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoDAOTests.testTime.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoDAOTests.testUpdate.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TodoServiceTests.testRegister.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.w3 [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat 10.1.26.executor&quot;: &quot;Run&quot;,
+    &quot;Tomcat Server.Tomcat 10.1.261.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql_aurora_aws",
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql_aurora_aws&quot;,
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="kroryi.w3.todo" />
@@ -303,8 +292,26 @@
       <workItem from="1722989469580" duration="1606000" />
       <workItem from="1722991088366" duration="755000" />
       <workItem from="1722991870729" duration="19497000" />
-      <workItem from="1723075209536" duration="18132000" />
+      <workItem from="1723075209536" duration="18776000" />
+      <workItem from="1723161701811" duration="10839000" />
     </task>
+    <task id="LOCAL-00001" summary="업로">
+      <option name="closed" value="true" />
+      <created>1723102620607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723102620607</updated>
+    </task>
+    <task id="LOCAL-00002" summary="업로">
+      <option name="closed" value="true" />
+      <created>1723102639266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723102639266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,5 +319,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="업로" />
+    <option name="LAST_COMMIT_MESSAGE" value="업로" />
   </component>
 </project>
